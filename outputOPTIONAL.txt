@@ -1,0 +1,56 @@
+the score1 array: 
+95 12 42 20 87 95 35 93 28 38 84 83 92 
+the score2 array: 
+94 98 42 93 30 70 35 74 97 45 84 75 32 
+
+the smallest value in score1 is 12
+the smallest value in score2 is 30
+
+the sumscores array: 189 110 84 113 117 165 70 167 125 83 168 158 124 
+the smallest value in sumscores is 70
+
+in postion 0, array score1 is larger: 95 is larger than 94
+in postion 1, array score2 is larger: 98 is larger than 12
+in postion 2,the two array have the same value:42
+in postion 3, array score2 is larger: 93 is larger than 20
+in postion 4, array score1 is larger: 87 is larger than 30
+in postion 5, array score1 is larger: 95 is larger than 70
+in postion 6,the two array have the same value:35
+in postion 7, array score1 is larger: 93 is larger than 74
+in postion 8, array score2 is larger: 97 is larger than 28
+in postion 9, array score2 is larger: 45 is larger than 38
+in postion 10,the two array have the same value:84
+in postion 11, array score1 is larger: 83 is larger than 75
+in postion 12, array score1 is larger: 92 is larger than 32
+
+Array score1 was larger 6 times
+Array score2 was larger 4 times
+The two arrays were equal 3 times
+
+the score1 array: 
+70 93 20 60 29 57 25 53 26 56 93 
+the score2 array: 
+80 52 43 60 73 36 20 58 12 56 77 
+
+the smallest value in score1 is 20
+the smallest value in score2 is 12
+
+the sumscores array: 150 145 63 120 102 93 45 111 38 112 170 
+the smallest value in sumscores is 38
+
+in postion 0, array score2 is larger: 80 is larger than 70
+in postion 1, array score1 is larger: 93 is larger than 52
+in postion 2, array score2 is larger: 43 is larger than 20
+in postion 3,the two array have the same value:60
+in postion 4, array score2 is larger: 73 is larger than 29
+in postion 5, array score1 is larger: 57 is larger than 36
+in postion 6, array score1 is larger: 25 is larger than 20
+in postion 7, array score2 is larger: 58 is larger than 53
+in postion 8, array score1 is larger: 26 is larger than 12
+in postion 9,the two array have the same value:56
+in postion 10, array score1 is larger: 93 is larger than 77
+
+Array score1 was larger 5 times
+Array score2 was larger 4 times
+The two arrays were equal 2 times
+
